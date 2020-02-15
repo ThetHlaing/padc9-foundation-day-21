@@ -1,0 +1,1 @@
+python "/media/thet/Data/PADC/PADC 7 - Foundation/Repo/Day 16/11.motivation/app.py"
